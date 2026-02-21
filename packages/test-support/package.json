@@ -48,7 +48,7 @@
     "@appium/support": "^6.1.1",
     "@colors/colors": "1.6.0",
     "bluebird": "3.7.2",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "loud-rejection": "2.2.0",
     "sinon": "20.0.0",
     "source-map-support": "0.5.21"
