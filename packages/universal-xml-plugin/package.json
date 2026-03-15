@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@xmldom/xmldom": "0.9.8",
-    "fast-xml-parser": "5.2.3",
-    "lodash": "4.17.21",
+    "fast-xml-parser": "5.3.8",
+    "lodash": "4.17.23",
     "source-map-support": "0.5.21",
     "xpath": "0.0.34"
   },
